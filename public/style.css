@@ -1,0 +1,39 @@
+.youtube_page {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.katalog-home {
+    width: 90%;
+    margin-left: 5%;
+    padding-bottom: 50px;
+    box-shadow: 5px 10px;
+    border: black 20px;   
+}
+
+.card-deck {
+    padding-top: 20px;
+}
+
+.gmaps {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: black;
+}
+
+.katalog-product{
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 20px;
+}
+
+.card-deck :hover{
+    cursor: pointer; 
+}
+.card-title{
+    text-align: center;
+}
